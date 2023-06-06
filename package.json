@@ -1,5 +1,5 @@
 {
-  "name": "codepen-clone",
+  "name": "CodeIt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,23 +13,11 @@
     "react": "^18.2.0",
     "react-codemirror2": "^7.2.1",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
-  },
-  {
-  "name": "n-app",
-  "version": "1.0.0",
-  "dependencies": {
-    "axios": "^0.10.2",
-    "node-sass": "^4.14.1",
-    "webpack": "^4.0.0"
-  }
-},
-{
-  "dependencies": {
+    "react-scripts": "^5.0.1",
     "axios": "^0.10.2",
     "node-sass": "^7.0.1",
     "webpack": "^4.0.0"
-  }
+  },
 },
   "scripts": {
     "start": "react-scripts start",
