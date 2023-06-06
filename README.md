@@ -19,7 +19,7 @@
 
 ### 7. Version Control Integration: Code editors often integrate with version control systems like Git, allowing developers to perform common version control operations directly within the editor. This includes features like committing changes, branching, merging, and resolving conflicts.
 
-####Code editors can be standalone applications or part of an integrated development environment (IDE). IDEs typically include additional tools and features like a built-in compiler, project management, and deployment capabilities, whereas code editors focus primarily on the code editing experience.
+#### Code editors can be standalone applications or part of an integrated development environment (IDE). IDEs typically include additional tools and features like a built-in compiler, project management, and deployment capabilities, whereas code editors focus primarily on the code editing experience.
 
 # Technical Specifications
 
