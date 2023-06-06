@@ -24,6 +24,13 @@
     "webpack": "^4.0.0"
   }
 },
+{
+  "dependencies": {
+    "axios": "^0.10.2",
+    "node-sass": "^7.0.1",
+    "webpack": "^4.0.0"
+  }
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
