@@ -23,8 +23,6 @@
 
 # Technical Specifications
 
-### Website- 
-
 ### Languages- HTML, CSS, Javascript
 
 ### Frameworks- Node.js, React.js
