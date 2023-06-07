@@ -32,7 +32,7 @@
 # Complete Website Framework
 
 ## Before execution of any code
-![plot] (./images/pic1)
+![plot](./images/pic1.png)
 
 ## After execution of any code
-![plot] (./images/pic2)
+![plot](./images/pic2.png)
